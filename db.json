@@ -1,23 +1,4 @@
 {
-  "searchResponseList": [
-    {
-      "caseId": 42,
-      "medicaidCaseNumber": "ABC",
-      "status": "NEW",
-      "members": [
-        {
-          "memberStatus": "NEW",
-          "relationship": "SON",
-          "firstName": "Rachel",
-          "middleName": "A",
-          "lastName": "Green",
-          "maId": "1234",
-          "ssn": "12345678"
-        }
-      ],
-      "lastUpdateNm": "SYSTEM",
-      "lastUpdateDtm": "2025-09-10T15:38:15.176Z"
-    }
-  ],
-  "total": 0
+  "searchResponseList": [{ "id": 1, "name": "demo" }],
+  "total": 1
 }
